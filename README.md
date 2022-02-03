@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Rodrigo Martins da Silva! 👋
 
-- 🔭 Trabalho com Desenvolvimento Web e Desktop.
+- 🔭 Trabalho com Desenvolvimento Web, Mobile e Desktop.
 - 🌱 Estudando ReactJS, ReactNative e JAVA.
 
  <div>
